@@ -1,5 +1,0 @@
-2015-04-24T17:31:18+00:00 DEBUG (7): Falha ao obter o token do cartao ou sender_hash. Veja se os dados "sender_hash" e "credit_card_token" foram enviados no formulário. Um problema de JavaScript pode ter ocorrido. Se esta for apenas uma atualização de blocos via ajax nao se preocupe.
-2015-04-24T17:31:28+00:00 DEBUG (7): Falha ao obter o token do cartao ou sender_hash. Veja se os dados "sender_hash" e "credit_card_token" foram enviados no formulário. Um problema de JavaScript pode ter ocorrido. Se esta for apenas uma atualização de blocos via ajax nao se preocupe.
-2015-04-24T17:31:33+00:00 DEBUG (7): Falha ao obter o token do cartao ou sender_hash. Veja se os dados "sender_hash" e "credit_card_token" foram enviados no formulário. Um problema de JavaScript pode ter ocorrido. Se esta for apenas uma atualização de blocos via ajax nao se preocupe.
-2015-04-24T17:31:54+00:00 DEBUG (7): Falha na autenticação com API do PagSeguro. Verifique email e token cadastrados. Retorno pagseguro: Unauthorized
-2015-04-24T17:33:54+00:00 DEBUG (7): Falha na autenticação com API do PagSeguro. Verifique email e token cadastrados. Retorno pagseguro: Unauthorized
